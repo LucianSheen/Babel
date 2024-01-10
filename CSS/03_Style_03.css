@@ -1,0 +1,21 @@
+html{
+  background-color: rgb(203,166,141);
+}
+
+
+div {
+  position: relative;
+  padding-bottom: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 2rem;
+  font-family: "Cambria";
+  line-height: 2;
+  text-align: justify;
+}
+
+#index {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}

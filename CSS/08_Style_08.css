@@ -1,0 +1,11 @@
+html{
+  background-color: rgb(220,220,220);
+}
+
+div {
+  text-align: justify;
+  font-size: 44px;
+  font-family: "Dodum";
+  font-weight: bold;
+  padding-top: 6px;
+}

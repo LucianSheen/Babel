@@ -1,0 +1,28 @@
+html{
+background-color: rgb(220,220,220);
+}
+
+div{
+  font-family:"NanumMyeongjo";
+  font-size:18px;
+  text-align: justify;
+}
+
+a {
+  background-color: black;
+  color:black;
+  color: rgb(76,14,139);
+  transition: 1s;
+}
+
+a:visited {
+  background-color: black;
+  color:black;
+  transition: 1s;
+}
+
+a:hover {
+  background-color: rgb(220,220,220);
+  color: rgb(76,14,139);
+  transition: 1s;
+}

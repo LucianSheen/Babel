@@ -1,0 +1,11 @@
+html {
+  background-color: white;
+  font-size: 5rem;
+  text-align: center;
+  font-family: monospace;
+  line-height: 1.2;
+}
+
+body {
+  padding-top: 190px;
+}
